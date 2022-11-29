@@ -8,9 +8,9 @@ Back-end: MySQL, PHP
 
 Screenshots:
 
-![1](https://user-images.githubusercontent.com/87073046/204588988-c0ed035f-a501-4dd8-bde9-1e09e896f8e9.png)
-![2](https://user-images.githubusercontent.com/87073046/204589085-6185f4d9-1d55-4344-ab51-d71bb65f1008.png)
-![3](https://user-images.githubusercontent.com/87073046/204589162-8a979079-49d7-4960-b992-f5188fa87466.png)
+![1](https://user-images.githubusercontent.com/78608059/204636790-9aa09b8f-0c5a-405e-839c-74d432cb821f.png)
+![2](https://user-images.githubusercontent.com/78608059/204636912-53bb8b8e-bd82-4966-a9d7-2d7ac6492073.png)
+
 
 Features:
 1. User Login: This contains all the tools and options required by any user who's willing to book a hotel room.
